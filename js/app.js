@@ -1,9 +1,4 @@
 /*
-
-new york times API: https://api.nytimes.com/svc/news/v3/content/content.json
-news API: https://newsapi.org/v2/top-headlines?sources=abc-news&apiKey=be564cd5d7f74f1886718dfb8193487f
-          https://newsapi.org/v2/top-headlines?sources=reddit-r-all&apiKey=be564cd5d7f74f1886718dfb8193487f
-
   Please add all Javascript code to this file.
 */
 'use strict';
